@@ -2,6 +2,7 @@
 I'm Mikołaj and I'm a Java Developer!  
 
 BIO  
+
 🏢 Working at UBS.  
 ⚙️ Coding with Spring WebFlux, pgsql for the most part.  
 🌍 Chad Java enjoyer.  
