@@ -4,7 +4,7 @@ I'm Mikołaj and I'm a Java Developer!
 BIO  
 
 * 🏢 Working at Paytrix.  
-* ⚙️  Coding with Spring making use of Reactive stack.  
+* ⚙️  Coding with Spring and making use of Reactive stack.  
 * 🌍 Chad Java enjoyer.  
 * 📝 JetBrains rules!  
 * 💻 Working on MacBook Pro, gaming on Windows.  
